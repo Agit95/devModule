@@ -25,6 +25,7 @@ static ssize_t mywrite(struct file *file, const char __user *ubuf,size_t count, 
 }
 */
 
+// Test push
 char* devName = "lla345";
 const int major = 57;
 //int globalVar = 31;
